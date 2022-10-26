@@ -12,9 +12,12 @@ Numerous changes were made to the document:
 - Various non-semantic elements were swapped out for more fitting semantic elements so developers could have a better idea of the page structure at a glance;
 - Comment markers were added for easier visual blocking of the code.
 
-## Screenshot
-(To add) <!-- ADD SCREENSHOT -->
+## Screenshots
+![Screenshot of the main website.](assets/images/example-screenshot.png)
+
+## License
+This repository and the files contained within are not for modification.
 
 ## Deployed Application
-(To add) <!-- ADD LINK -->
+[Link to the deployed application.](https://karlnh.github.io/module-1-challenge/)
 

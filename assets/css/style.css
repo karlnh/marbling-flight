@@ -9,6 +9,8 @@ body {
 }
 
 /* ###### HEADER ###### */
+/* ###### HEADER ###### */
+/* ###### HEADER ###### */
 
 .header { /* <header> styling */
     padding: 20px;
@@ -26,7 +28,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav { /* header <nav> styling */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -49,6 +51,8 @@ a { /* color of <header> links */
 }
 
 /* ###### HERO IMAGE ###### */
+/* ###### HERO IMAGE ###### */
+/* ###### HERO IMAGE ###### */
 
 .hero { /* hero image */
     height: 800px;
@@ -57,9 +61,10 @@ a { /* color of <header> links */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    display: block; /* Required! The original <div> tag that housed .hero was changed into an <img> so alt text could be added, and <img> defaults to an inline display, ruined formatting. Annoying. */
 }
 
+/* ###### MAIN ###### */
+/* ###### MAIN ###### */
 /* ###### MAIN ###### */
 
 p { /* size of descriptive text in both <main> .content and <aside> .benefits */
@@ -74,8 +79,7 @@ p { /* size of descriptive text in both <main> .content and <aside> .benefits */
 
 .search-engine-optimization, /* <main> content sections */
 .online-reputation-management,
-.social-media-marketing
- {
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,6 +111,8 @@ p { /* size of descriptive text in both <main> .content and <aside> .benefits */
     font-size: 36px;
 }
 
+/* ###### SIDEBAR ###### */
+/* ###### SIDEBAR ###### */
 /* ###### SIDEBAR ###### */
 
 .benefits { /* sidebar main styling */
@@ -143,14 +149,16 @@ p { /* size of descriptive text in both <main> .content and <aside> .benefits */
 }
 
 /* ###### FOOTER ###### */
+/* ###### FOOTER ###### */
+/* ###### FOOTER ###### */
 
-footer {
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.footer h2 {
     font-size: 20px;
 }
