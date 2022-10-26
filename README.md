@@ -1,7 +1,5 @@
 # Code Refactor Starter Code
 
-## Table of Contents
-
 ## Description
 The purpose of this project was to introduce myself to the basics of accessible design and coding and as part of an "on-the-job ticket" or feature request challenge where I modify provided code with additional features. I began with starter code of a mockup website missing accessibility features for both users and coders. The challenge was to insert these accessibility features into the code without modifying the page's design.
 
