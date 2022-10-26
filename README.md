@@ -1,6 +1,4 @@
 # Code Refactor Starter Code
-<<<<<<< Updated upstream
-=======
 
 ## Table of Contents
 
@@ -9,7 +7,7 @@ The purpose of this project was to introduce myself to the basics of accessible 
 
 ## Changes
 Numerous changes were made to the document:
-- The page was given stronger more relevant title; 
+- The page was given stronger more relevant <title>; 
 - Images were provided short alt-text descriptions for screen-readers;
 - Various non-semantic elements were swapped out for more fitting semantic elements so developers could have a better idea of the page structure at a glance;
 - Comment markers were added for easier visual blocking of the code.
@@ -20,4 +18,3 @@ Numerous changes were made to the document:
 ## Deployed Application
 (To add) <!-- ADD LINK -->
 
->>>>>>> Stashed changes

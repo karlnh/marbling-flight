@@ -26,11 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-<<<<<<< Updated upstream
 .header div {
-=======
-.header nav { /* header <nav> styling */
->>>>>>> Stashed changes
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,11 +34,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -61,6 +57,7 @@ a { /* color of <header> links */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    display: block; /* Required! The original <div> tag that housed .hero was changed into an <img> so alt text could be added, and <img> defaults to an inline display, ruined formatting. Annoying. */
 }
 
 /* ###### MAIN ###### */
@@ -147,13 +144,13 @@ p { /* size of descriptive text in both <main> .content and <aside> .benefits */
 
 /* ###### FOOTER ###### */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
