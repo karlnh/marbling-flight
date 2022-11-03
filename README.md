@@ -1,6 +1,6 @@
 # Module 1 Challenge: Code Refactoring
 
-[Link to the deployed application.](https://karlnh.github.io/module-1-challenge/)
+[Link to the deployed application.](https://karlnh.github.io/marbling-flight/)
 
 ## Description
 The purpose of this project was to introduce myself to the basics of accessible design and coding. The project was framed as being part of an "on-the-job ticket" or feature request challenge: I began with starter code of a mockup website which lacked accessibility features and "refactored" it, or modified provided code with additional requested features. The challenge was to insert required accessibility features into the code without modifying the page's design. 
